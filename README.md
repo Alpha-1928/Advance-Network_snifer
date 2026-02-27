@@ -41,7 +41,7 @@ This project reflects practical understanding of OSI Model layers and packet-lev
 
 **▶ Installation & Usage**
 
-git clone https://github.com/your-username/Advanced-Network-Sniffer.git
+git clone https://github.com/Alpha-1928/Advanced-Network-Sniffer.git
 cd Advanced-Network-Sniffer
 python sniffer.py
 (⚠ Administrator/root privileges required to capture packets.)
